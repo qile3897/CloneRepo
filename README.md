@@ -1,2 +1,2 @@
 # CloneRepo
-This is Dev Branch
+Creating a new branch is quick & simple.
